@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I am Janis!
 
 <!--
 **Janis-Kvs/Janis-Kvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
