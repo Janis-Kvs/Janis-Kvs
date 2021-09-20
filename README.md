@@ -1,6 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Janis!
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px">
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
+
+
 <!--
 **Janis-Kvs/Janis-Kvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
