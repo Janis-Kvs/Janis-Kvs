@@ -16,7 +16,10 @@ Contact me on **janis.kazjonovs@gmail.com** or by sending PM on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janis-kazjonovs/)
 
 
-
+Projects
+[Flight Planner API](https://github.com/Janis-Kvs/flight-planner_)
+[Scooter Rental Class Library] (https://github.com/Janis-Kvs/home-assignments_/tree/master/assignments/if/if-scooters)
+[Insurance Company Class Library] (https://github.com/Janis-Kvs/home-assignments_/tree/master/assignments/if/if-risk)
 
 
 
