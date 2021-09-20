@@ -17,9 +17,12 @@ Contact me on **janis.kazjonovs@gmail.com** or by sending PM on LinkedIn:
 
 
 Projects
+
 [Flight Planner API](https://github.com/Janis-Kvs/flight-planner_)
-[Scooter Rental Class Library] (https://github.com/Janis-Kvs/home-assignments_/tree/master/assignments/if/if-scooters)
-[Insurance Company Class Library] (https://github.com/Janis-Kvs/home-assignments_/tree/master/assignments/if/if-risk)
+
+[Scooter Rental Class Library](https://github.com/Janis-Kvs/home-assignments_/tree/master/assignments/if/if-scooters)
+
+[Insurance Company Class Library](https://github.com/Janis-Kvs/home-assignments_/tree/master/assignments/if/if-risk)
 
 
 
